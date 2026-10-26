@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Unit Testing Lab Using pytest
 
@@ -28,3 +29,6 @@ pytest -v
 
 ## Result
 The calculator functions are validated using automated tests.
+=======
+# Unit-Test-lab
+>>>>>>> 13b51179592e9941af23bdab2b8ff681bca89efc
